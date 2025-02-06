@@ -1,6 +1,8 @@
 # 💫 About Me:
 ✨Currently working on Discord Bots<br>💻Mainly code on Python and JavaScript<br>📚Currently learning C# and C++
 
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/608328429061799957)](https://discord.com/users/608328429061799957)
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Verygafanhot) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Verygafanhot) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Verygafanhot) 
