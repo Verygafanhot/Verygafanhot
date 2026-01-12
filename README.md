@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨Currently working on Discord Bots<br>💻Mainly code on Python and JavaScript<br>📚Currently learning C# and C++
+✨Currently working on a bunch of different web stuff<br>💻Mainly code on Python and JavaScript<br>📚Studying a bit of everything 
 
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/608328429061799957?borderRadius=28px&showDisplayName=true)](https://discord.com/users/608328429061799957)
